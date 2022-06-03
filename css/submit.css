@@ -93,9 +93,26 @@ main {
     text-align: center;
 }
 
-main p {
-    font-weight: bold;
-    font-size: 24px;
-    margin-bottom: 50px;
+.submit-form {
+    margin-top: 70px;
 }
 
+.input-text {
+    border-bottom-left-radius: 2px;
+    border-top-left-radius: 2px;
+    border-top-left-radius: 2px;
+    width: 360px;
+    border: 3px solid #FF70A6;
+    padding: 10px 20px;
+    margin-right: -5px;
+}
+
+.input-btn {
+    border-bottom-right-radius: 2px;
+    border-top-right-radius: 2px;
+    border: 3px solid #FF70A6;
+    padding: 10px 50px;
+    font-weight: bold;
+    background: none;
+    color: #FF70A6;
+}

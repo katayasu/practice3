@@ -37,6 +37,10 @@ header {
     margin-top: 50px;
 }
 
+header a {
+    color: black;
+}
+
 header .container {
     display: grid;
     grid-template-areas:
